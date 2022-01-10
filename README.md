@@ -50,6 +50,12 @@ S3 -> Security, Reliability, Availability and low cost.
 Redshift -> It's scalable, supports columnar storage and provides MPP(Massively parallel processing)
 Airflow -> It's user friendly, easy to use and highly customizable.
 
+## Airflow Run
+
+![Capstone-Graph-View](https://user-images.githubusercontent.com/23046900/148825809-d0edb1d0-5dc8-48b9-8478-8dbb0af2c5a7.PNG)
+
+![Capstone-Tree-View](https://user-images.githubusercontent.com/23046900/148825842-92bfa4ea-ea39-493f-8761-5693cc3b246a.PNG)
+
 
 ## Scenarios
 
